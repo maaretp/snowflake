@@ -2,3 +2,7 @@
 node_modules
 out
 yarn-error.log
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
